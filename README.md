@@ -29,8 +29,22 @@ Sí actualmente ya cuenta con la versión instalada 5.1.0.8, debe seguir con los s
 
 Despachando correo
 --
-Una vez realizado los pasos anteriores debe ir al módulo de **Consultas** y programar una ejecución.
+
 ![alt text](image-6.png)
+
+
+Una vez realizado los pasos anteriores debe ir al módulo de **Consultas**  y configurar el servidor SMTP si aún no lo ha programado, primero se debe abrir el despachardor y seleccionar la opción **Configurar servidor SMTP**
+![alt text](image-16.png)
+
+Una vez creada la contraseña de aplicaciones según su cliente de correos, se debe confiugrar con las credenciales.
+![alt text](image-17.png)
+Una vez configuradas dichas credenciales se puede continuar con los siguientes pasos.
+
+
+
+
+
+
 
 1. Levantar el despachador de tareas, es de vital importancia que este se encuentre activo para realizar el despacho de tareas post. Para activalor se debe dar clic en la pestaña superior llamada **Consultas programadas**.
 ![alt text](image-7.png)
