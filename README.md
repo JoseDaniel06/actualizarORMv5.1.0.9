@@ -2,6 +2,8 @@ Novedades versión 5.1.0.9
 --
 **Versión 5.1.0.9**: Se actualiza el despachador de correos SMTP para permitir su configuración mediante parámetros registrados en el panel de administración. Estos parámetros determinan si los correos se envían de forma asíncrona (modo predeterminado y actual) y si se requiere emplear diversos ajustes personalizados según las necesidades del cliente. De este modo, se garantiza una mayor flexibilidad y adaptabilidad del sistema para cumplir con los requisitos específicos.
 
+**Nota:** Se debe tener en cuenta que las contraseñas usadas para los servidores SMTP de **Gmail** y **Office** son contraseñas de aplicaciones, se deben crear directamente en las configuraciones de la cuenta.
+
 
 Actualización ORM v5.1.0.9
 --
@@ -37,6 +39,7 @@ Una vez realizado los pasos anteriores debe ir al módulo de **Consultas** y prog
 * Se debe abrir una consulta y abrir la pestaña de **Consultas programadas** y se habilitara el botón de **Programar ejecución**.
 ![alt text](image-9.png)
 * Se debe seleccionar la periodicidad de la tarea post
+
 ![alt text](image-10.png)
 * Luego dar clic en crear nueva tarea
 ![alt text](image-11.png)
